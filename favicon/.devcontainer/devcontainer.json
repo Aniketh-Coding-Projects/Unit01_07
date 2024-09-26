@@ -8,7 +8,7 @@
         "8000": {
             "label": "My PHP Server",
             "onAutoForward": "notify"
-        }
+        } 
     },
     "customizations": {
         "vscode": {
